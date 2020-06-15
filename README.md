@@ -6,7 +6,7 @@ A clean C++ wrapper around the ffmpeg libraries which can be used in any C++ pro
 ## Windows
 
 1. Clone the repository
-2. Download a build of FFmpeg from https://ffmpeg.zeranoe.com/builds/. The project was last tested with **4.1**. You will need both the dev version (for .h and .lib files) and the shared version (for .dll). Extract all of them into the ffmpeg directory in the repository. there are more instructions on how to extract them properly in the ffmpeg/readme.txt file.
+2. Download a build of FFmpeg from https://ffmpeg.zeranoe.com/builds/. The project was last tested with **4.2.3**. You will need both the dev version (for .h and .lib files) and the shared version (for .dll). Extract all of them into the ffmpeg directory in the repository. there are more instructions on how to extract them properly in the ffmpeg/readme.txt file.
 3. Open the Visual Studio solution in the source directory.
 4. Build everything.
 
